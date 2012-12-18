@@ -8,7 +8,7 @@ Installation
 ------------
 
 - $ virtualenv django-social-auth-twitter
-- activate the virtual environment (Source/activate.bat (or) ./activate.sh) 
+- activate the virtual environment (Source/activate.bat (or)  source bin/activate) 
 - $ pip install -r requirements.txt (uncomment the MySQL-python if you are using mysql)
 
 - Create a Twitter app in http://twitter.com/apps/new and update TWITTER_CONSUMER_KEY & TWITTER_CONSUMER_SECRET
